@@ -10,7 +10,7 @@ print(df.head())
 print(df.info())
 
 # -----------------------------
-# 🧹 Data Cleaning
+#  Data Cleaning
 # -----------------------------
 df.dropna(subset=['title'], inplace=True)
 
@@ -22,7 +22,7 @@ df['country'].fillna("Unknown", inplace=True)
 df['director'].fillna("Unknown", inplace=True)
 
 # -----------------------------
-# ⚙️ Feature Engineering
+#  Feature Engineering
 # -----------------------------
 
 # Extract year added
@@ -35,7 +35,7 @@ df['main_genre'] = df['listed_in'].apply(lambda x: x.split(',')[0])
 df['duration_int'] = df['duration'].str.extract('(\d+)').astype(float)
 
 # -----------------------------
-# 📊 EDA - Genre Distribution
+#  EDA - Genre Distribution
 # -----------------------------
 plt.figure(figsize=(10,6))
 df['main_genre'].value_counts().head(10).plot(kind='bar')
@@ -46,7 +46,7 @@ plt.xticks(rotation=45)
 plt.show()
 
 # -----------------------------
-# 📊 EDA - Content Type
+#  EDA - Content Type
 # -----------------------------
 plt.figure(figsize=(6,4))
 sns.countplot(data=df, x='type')
@@ -54,7 +54,7 @@ plt.title("Movies vs TV Shows")
 plt.show()
 
 # -----------------------------
-# 📊 EDA - Release Trend
+#  EDA - Release Trend
 # -----------------------------
 plt.figure(figsize=(10,6))
 df['release_year'].value_counts().sort_index().plot()
@@ -64,7 +64,7 @@ plt.ylabel("Count")
 plt.show()
 
 # -----------------------------
-# 🤖 Clustering Content
+#  Clustering Content
 # -----------------------------
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
@@ -80,7 +80,7 @@ kmeans = KMeans(n_clusters=3, random_state=42)
 cluster_df['Cluster'] = kmeans.fit_predict(scaled_data)
 
 # -----------------------------
-# 📈 Visualization of Clusters
+#  Visualization of Clusters
 # -----------------------------
 plt.figure(figsize=(8,6))
 sns.scatterplot(

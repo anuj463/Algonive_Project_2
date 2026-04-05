@@ -1,0 +1,201 @@
+id,name,host_name,neighbourhood_group,room_type,price,minimum_nights,number_of_reviews,reviews_per_month,availability_365
+1,Listing 1,Host_1,Bronx,Private room,207,3,37,2.48,45
+2,Listing 2,Host_2,Staten Island,Private room,196,7,114,3.71,63
+3,Listing 3,Host_3,Queens,Private room,194,3,14,2.87,129
+4,Listing 4,Host_4,Staten Island,Shared room,169,2,191,4.99,309
+5,Listing 5,Host_5,Staten Island,Shared room,368,4,118,3.76,362
+6,Listing 6,Host_6,Brooklyn,Entire home/apt,324,8,27,3.53,192
+7,Listing 7,Host_7,Queens,Entire home/apt,141,9,38,3.89,306
+8,Listing 8,Host_8,Queens,Shared room,107,7,184,0.72,180
+9,Listing 9,Host_9,Queens,Private room,395,1,16,1.02,291
+10,Listing 10,Host_10,Staten Island,Entire home/apt,278,3,85,3.57,281
+11,Listing 11,Host_11,Bronx,Shared room,166,9,125,2.47,28
+12,Listing 12,Host_12,Queens,Shared room,367,1,43,3.77,148
+13,Listing 13,Host_13,Staten Island,Shared room,328,9,24,0.51,266
+14,Listing 14,Host_14,Brooklyn,Private room,176,8,144,2.68,295
+15,Listing 15,Host_15,Bronx,Shared room,178,1,12,1.89,10
+16,Listing 16,Host_16,Brooklyn,Shared room,107,6,24,2.29,163
+17,Listing 17,Host_17,Bronx,Shared room,171,5,67,3.02,112
+18,Listing 18,Host_18,Staten Island,Shared room,50,6,137,2.51,186
+19,Listing 19,Host_19,Manhattan,Entire home/apt,288,5,66,2.7,294
+20,Listing 20,Host_0,Bronx,Entire home/apt,339,6,108,2.43,231
+21,Listing 21,Host_1,Brooklyn,Shared room,145,5,145,2.04,226
+22,Listing 22,Host_2,Staten Island,Private room,175,5,110,3.86,309
+23,Listing 23,Host_3,Bronx,Entire home/apt,167,4,110,0.06,97
+24,Listing 24,Host_4,Manhattan,Shared room,97,3,33,2.99,54
+25,Listing 25,Host_5,Manhattan,Entire home/apt,138,3,110,2.83,110
+26,Listing 26,Host_6,Queens,Entire home/apt,286,4,7,3.58,151
+27,Listing 27,Host_7,Queens,Private room,321,9,167,3,245
+28,Listing 28,Host_8,Brooklyn,Shared room,238,2,112,4.13,68
+29,Listing 29,Host_9,Bronx,Shared room,241,9,82,4.8,311
+30,Listing 30,Host_10,Bronx,Private room,118,1,41,1.71,288
+31,Listing 31,Host_11,Queens,Private room,327,1,168,1.14,249
+32,Listing 32,Host_12,Bronx,Shared room,398,5,100,2.12,35
+33,Listing 33,Host_13,Bronx,Shared room,296,6,5,1.44,238
+34,Listing 34,Host_14,Manhattan,Private room,125,6,179,3.07,147
+35,Listing 35,Host_15,Queens,Entire home/apt,203,3,25,4.56,226
+36,Listing 36,Host_16,Staten Island,Entire home/apt,193,7,63,0.7,243
+37,Listing 37,Host_17,Queens,Private room,135,9,186,0.5,336
+38,Listing 38,Host_18,Staten Island,Entire home/apt,234,8,183,1.28,364
+39,Listing 39,Host_19,Manhattan,Private room,334,6,58,3.63,200
+40,Listing 40,Host_0,Brooklyn,Entire home/apt,269,8,108,2.96,153
+41,Listing 41,Host_1,Bronx,Entire home/apt,118,5,197,0.51,72
+42,Listing 42,Host_2,Manhattan,Shared room,96,8,120,4.59,200
+43,Listing 43,Host_3,Bronx,Shared room,143,4,32,3.95,295
+44,Listing 44,Host_4,Brooklyn,Entire home/apt,287,8,180,0.12,16
+45,Listing 45,Host_5,Brooklyn,Entire home/apt,253,2,149,3.26,128
+46,Listing 46,Host_6,Manhattan,Shared room,267,5,20,3.86,216
+47,Listing 47,Host_7,Brooklyn,Shared room,390,9,197,1.87,60
+48,Listing 48,Host_8,Staten Island,Shared room,88,4,69,0.34,103
+49,Listing 49,Host_9,Brooklyn,Private room,149,6,111,0.39,41
+50,Listing 50,Host_10,Bronx,Entire home/apt,338,1,3,0.52,24
+51,Listing 51,Host_11,Bronx,Shared room,303,9,93,4.2,38
+52,Listing 52,Host_12,Bronx,Entire home/apt,271,1,74,4.55,290
+53,Listing 53,Host_13,Bronx,Private room,72,5,189,0.61,130
+54,Listing 54,Host_14,Staten Island,Private room,299,4,61,1.18,228
+55,Listing 55,Host_15,Queens,Shared room,59,3,93,0.83,107
+56,Listing 56,Host_16,Manhattan,Private room,295,6,94,0.93,171
+57,Listing 57,Host_17,Bronx,Entire home/apt,374,2,151,4.19,101
+58,Listing 58,Host_18,Brooklyn,Shared room,149,3,54,1.66,353
+59,Listing 59,Host_19,Bronx,Entire home/apt,339,5,136,1.56,11
+60,Listing 60,Host_0,Brooklyn,Entire home/apt,229,9,130,1.14,274
+61,Listing 61,Host_1,Brooklyn,Private room,272,2,30,3.04,100
+62,Listing 62,Host_2,Bronx,Private room,299,8,39,1.9,43
+63,Listing 63,Host_3,Staten Island,Private room,196,2,35,3.72,304
+64,Listing 64,Host_4,Brooklyn,Private room,145,5,151,1.03,16
+65,Listing 65,Host_5,Brooklyn,Private room,306,7,5,3.94,329
+66,Listing 66,Host_6,Bronx,Shared room,374,8,65,3.02,56
+67,Listing 67,Host_7,Brooklyn,Entire home/apt,53,1,74,0.57,310
+68,Listing 68,Host_8,Brooklyn,Entire home/apt,65,6,3,2.07,302
+69,Listing 69,Host_9,Bronx,Entire home/apt,329,1,78,4.32,11
+70,Listing 70,Host_10,Bronx,Entire home/apt,385,2,133,4.61,317
+71,Listing 71,Host_11,Manhattan,Private room,296,1,117,2.33,79
+72,Listing 72,Host_12,Staten Island,Entire home/apt,307,5,112,2.4,215
+73,Listing 73,Host_13,Staten Island,Shared room,209,9,93,4.59,338
+74,Listing 74,Host_14,Brooklyn,Shared room,389,6,178,2.94,263
+75,Listing 75,Host_15,Staten Island,Entire home/apt,201,1,61,0.16,148
+76,Listing 76,Host_16,Brooklyn,Entire home/apt,227,1,184,4.56,80
+77,Listing 77,Host_17,Manhattan,Shared room,212,2,193,1.24,214
+78,Listing 78,Host_18,Bronx,Shared room,82,9,78,2.89,197
+79,Listing 79,Host_19,Bronx,Private room,228,3,135,0.83,199
+80,Listing 80,Host_0,Bronx,Shared room,150,1,25,0.17,24
+81,Listing 81,Host_1,Staten Island,Private room,317,5,178,1.56,88
+82,Listing 82,Host_2,Manhattan,Private room,372,7,172,3.9,267
+83,Listing 83,Host_3,Staten Island,Private room,114,6,43,1.39,142
+84,Listing 84,Host_4,Staten Island,Private room,217,1,132,1.1,58
+85,Listing 85,Host_5,Manhattan,Private room,379,5,69,1.06,364
+86,Listing 86,Host_6,Manhattan,Entire home/apt,92,5,153,2.58,25
+87,Listing 87,Host_7,Manhattan,Shared room,93,6,117,4.88,46
+88,Listing 88,Host_8,Manhattan,Private room,334,3,67,2.29,287
+89,Listing 89,Host_9,Bronx,Shared room,61,5,18,2.79,265
+90,Listing 90,Host_10,Queens,Shared room,144,7,19,4.3,15
+91,Listing 91,Host_11,Queens,Private room,351,5,112,2.68,198
+92,Listing 92,Host_12,Manhattan,Entire home/apt,302,5,139,0.92,281
+93,Listing 93,Host_13,Queens,Private room,291,5,46,1.5,85
+94,Listing 94,Host_14,Queens,Entire home/apt,84,3,0,1.55,249
+95,Listing 95,Host_15,Manhattan,Shared room,264,1,89,1.99,269
+96,Listing 96,Host_16,Queens,Entire home/apt,386,5,141,2.13,334
+97,Listing 97,Host_17,Staten Island,Entire home/apt,139,9,63,4,116
+98,Listing 98,Host_18,Brooklyn,Entire home/apt,313,1,37,1.75,6
+99,Listing 99,Host_19,Brooklyn,Shared room,142,3,36,2.34,136
+100,Listing 100,Host_0,Manhattan,Shared room,139,4,125,3.12,175
+101,Listing 101,Host_1,Bronx,Entire home/apt,164,1,138,1.89,327
+102,Listing 102,Host_2,Manhattan,Entire home/apt,154,1,99,4.18,314
+103,Listing 103,Host_3,Bronx,Private room,245,8,76,2.94,214
+104,Listing 104,Host_4,Brooklyn,Entire home/apt,363,2,2,1.47,81
+105,Listing 105,Host_5,Manhattan,Private room,163,8,160,3.57,222
+106,Listing 106,Host_6,Staten Island,Entire home/apt,124,7,133,2.64,102
+107,Listing 107,Host_7,Queens,Private room,266,2,177,2.67,272
+108,Listing 108,Host_8,Bronx,Shared room,326,6,9,2.41,13
+109,Listing 109,Host_9,Queens,Entire home/apt,298,6,4,2.49,158
+110,Listing 110,Host_10,Queens,Entire home/apt,213,3,150,3.83,151
+111,Listing 111,Host_11,Manhattan,Entire home/apt,241,2,137,0.51,107
+112,Listing 112,Host_12,Queens,Entire home/apt,276,1,171,1.67,187
+113,Listing 113,Host_13,Staten Island,Private room,226,6,129,0.38,300
+114,Listing 114,Host_14,Queens,Entire home/apt,148,5,12,3.77,97
+115,Listing 115,Host_15,Manhattan,Shared room,85,9,167,1.36,130
+116,Listing 116,Host_16,Staten Island,Shared room,145,1,129,4.49,292
+117,Listing 117,Host_17,Brooklyn,Entire home/apt,201,7,83,2.63,170
+118,Listing 118,Host_18,Queens,Shared room,200,5,64,4,182
+119,Listing 119,Host_19,Manhattan,Entire home/apt,239,5,62,4.89,363
+120,Listing 120,Host_0,Brooklyn,Entire home/apt,273,2,100,4.2,38
+121,Listing 121,Host_1,Brooklyn,Shared room,86,3,72,4.33,14
+122,Listing 122,Host_2,Bronx,Entire home/apt,317,7,16,2.04,3
+123,Listing 123,Host_3,Staten Island,Shared room,232,6,8,2.76,348
+124,Listing 124,Host_4,Queens,Private room,62,2,142,1.27,209
+125,Listing 125,Host_5,Manhattan,Entire home/apt,328,6,151,0.98,160
+126,Listing 126,Host_6,Bronx,Private room,266,2,37,2.53,15
+127,Listing 127,Host_7,Staten Island,Shared room,335,2,162,2.98,107
+128,Listing 128,Host_8,Bronx,Private room,322,2,93,1.7,310
+129,Listing 129,Host_9,Staten Island,Private room,111,3,94,2.85,226
+130,Listing 130,Host_10,Staten Island,Shared room,133,2,48,4.44,169
+131,Listing 131,Host_11,Queens,Private room,266,4,68,2.78,33
+132,Listing 132,Host_12,Staten Island,Private room,391,9,61,3.6,250
+133,Listing 133,Host_13,Bronx,Shared room,236,6,187,4.03,246
+134,Listing 134,Host_14,Staten Island,Private room,68,1,177,4.94,268
+135,Listing 135,Host_15,Queens,Shared room,226,8,77,3.02,140
+136,Listing 136,Host_16,Queens,Private room,149,7,116,4.03,273
+137,Listing 137,Host_17,Bronx,Shared room,282,3,119,4.81,95
+138,Listing 138,Host_18,Brooklyn,Shared room,125,1,136,4.72,226
+139,Listing 139,Host_19,Brooklyn,Private room,314,5,161,0.71,38
+140,Listing 140,Host_0,Staten Island,Private room,333,4,75,2.03,301
+141,Listing 141,Host_1,Manhattan,Private room,255,8,34,1.62,28
+142,Listing 142,Host_2,Staten Island,Entire home/apt,272,1,0,0.43,317
+143,Listing 143,Host_3,Bronx,Entire home/apt,101,1,39,3.17,244
+144,Listing 144,Host_4,Bronx,Entire home/apt,388,4,63,3.68,235
+145,Listing 145,Host_5,Bronx,Shared room,193,8,149,4.24,184
+146,Listing 146,Host_6,Bronx,Private room,118,5,59,0.61,271
+147,Listing 147,Host_7,Bronx,Shared room,148,2,63,4.38,235
+148,Listing 148,Host_8,Queens,Entire home/apt,74,6,92,3.21,238
+149,Listing 149,Host_9,Brooklyn,Private room,102,5,71,3.52,265
+150,Listing 150,Host_10,Bronx,Shared room,200,2,10,4.55,358
+151,Listing 151,Host_11,Manhattan,Private room,193,3,104,3.12,339
+152,Listing 152,Host_12,Manhattan,Shared room,106,9,13,1.68,64
+153,Listing 153,Host_13,Manhattan,Private room,88,7,59,4.13,176
+154,Listing 154,Host_14,Manhattan,Entire home/apt,158,7,29,1.82,2
+155,Listing 155,Host_15,Queens,Entire home/apt,230,6,34,0.17,141
+156,Listing 156,Host_16,Manhattan,Private room,91,8,164,4.15,157
+157,Listing 157,Host_17,Bronx,Shared room,235,4,4,1.73,323
+158,Listing 158,Host_18,Staten Island,Entire home/apt,272,8,82,3.87,145
+159,Listing 159,Host_19,Manhattan,Entire home/apt,171,4,122,1.81,292
+160,Listing 160,Host_0,Queens,Entire home/apt,182,8,77,4.31,152
+161,Listing 161,Host_1,Queens,Private room,212,9,153,1.1,192
+162,Listing 162,Host_2,Manhattan,Private room,264,3,61,4.87,72
+163,Listing 163,Host_3,Staten Island,Shared room,270,3,131,3.9,304
+164,Listing 164,Host_4,Manhattan,Shared room,284,2,88,0.57,343
+165,Listing 165,Host_5,Queens,Shared room,380,3,41,2.83,139
+166,Listing 166,Host_6,Brooklyn,Private room,195,3,88,4.93,186
+167,Listing 167,Host_7,Bronx,Private room,288,5,145,2.36,292
+168,Listing 168,Host_8,Queens,Shared room,125,5,39,0.91,60
+169,Listing 169,Host_9,Manhattan,Shared room,58,2,71,2.42,197
+170,Listing 170,Host_10,Bronx,Private room,123,6,38,2.56,294
+171,Listing 171,Host_11,Manhattan,Shared room,302,5,103,3.71,318
+172,Listing 172,Host_12,Manhattan,Entire home/apt,279,6,13,3.49,301
+173,Listing 173,Host_13,Brooklyn,Private room,56,1,31,2.01,343
+174,Listing 174,Host_14,Bronx,Shared room,223,5,178,1.09,10
+175,Listing 175,Host_15,Bronx,Private room,190,9,124,3.23,61
+176,Listing 176,Host_16,Brooklyn,Entire home/apt,217,2,165,2.11,332
+177,Listing 177,Host_17,Queens,Private room,219,1,96,0.66,225
+178,Listing 178,Host_18,Manhattan,Private room,332,9,22,4.5,152
+179,Listing 179,Host_19,Staten Island,Private room,171,9,62,3.46,198
+180,Listing 180,Host_0,Manhattan,Private room,243,9,142,3.42,51
+181,Listing 181,Host_1,Manhattan,Entire home/apt,54,6,152,4.11,259
+182,Listing 182,Host_2,Queens,Private room,78,8,144,2.65,58
+183,Listing 183,Host_3,Manhattan,Private room,214,1,193,4.08,71
+184,Listing 184,Host_4,Brooklyn,Shared room,388,4,52,2.49,147
+185,Listing 185,Host_5,Brooklyn,Private room,185,1,103,0.34,348
+186,Listing 186,Host_6,Bronx,Shared room,370,8,103,2.03,62
+187,Listing 187,Host_7,Staten Island,Entire home/apt,391,1,178,2.49,309
+188,Listing 188,Host_8,Manhattan,Entire home/apt,194,3,38,3.6,242
+189,Listing 189,Host_9,Manhattan,Entire home/apt,376,4,178,0.53,329
+190,Listing 190,Host_10,Queens,Entire home/apt,266,8,197,0.7,106
+191,Listing 191,Host_11,Brooklyn,Shared room,350,6,133,1.32,225
+192,Listing 192,Host_12,Staten Island,Private room,181,7,66,1.33,312
+193,Listing 193,Host_13,Bronx,Entire home/apt,341,8,134,3.66,217
+194,Listing 194,Host_14,Brooklyn,Private room,119,2,178,1.25,240
+195,Listing 195,Host_15,Bronx,Shared room,301,8,199,3.17,258
+196,Listing 196,Host_16,Queens,Shared room,324,3,41,2.47,261
+197,Listing 197,Host_17,Queens,Shared room,231,7,191,2.87,4
+198,Listing 198,Host_18,Manhattan,Entire home/apt,216,3,14,4.19,260
+199,Listing 199,Host_19,Staten Island,Private room,140,7,110,2.02,53
+200,Listing 200,Host_0,Bronx,Private room,251,2,156,3.85,46
